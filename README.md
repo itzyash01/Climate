@@ -15,4 +15,3 @@ The app uses following dependencies:
   
 ![Climate2](https://user-images.githubusercontent.com/91739600/155210651-cdc5db5e-fbc2-4ca3-91be-ef48387937fe.jpeg)
 ![Climate3](https://user-images.githubusercontent.com/91739600/155210658-9dfc1e17-0751-4f05-9861-7c8ff5265450.jpeg)
-![Cimate1](https://user-images.githubusercontent.com/91739600/155210660-7ab4900a-b9ba-471c-a5e2-30621db35a09.jpeg)
